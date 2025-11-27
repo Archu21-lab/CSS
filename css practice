@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            practice of CSS
+        </title>
+
+        <style>
+
+            h1{
+                color:red;
+
+            }
+            #para{
+                color:brown;
+                font-size:30px;
+                font weight:900px;
+                font-family:arial;
+                font-style: italic;
+                text-align:center;
+                text-transform:capitalize;
+                text-decoration:underline;
+                line-height:2;
+                letter-spacing:2px;
+                word-spacing:5px;
+                
+
+            }
+        </style>
+    </head>
+    <body>
+        <h1 id="headings"> CSS Practice </h1>
+        <P id="para"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br/>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. <br/>It has survived not only five centuries,<br/> but also the leap into electronic typesetting, <br/>remaining essentially unchanged.<br/> It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, <br/>and more recently with desktop publishing software like Aldus PageMak
+    
+    
+         </P>
+
+    </body>
+</html>
