@@ -1,0 +1,31 @@
+@font-face{
+    font-family:'my font';
+    src: url('lecture3\my font.ttf') format('truetype');
+
+}  
+  
+  body{
+    font-family:"my font",cursive;
+  }
+  
+  
+  
+  .para {
+        /*font-family: "Playwrite US Trad Guides", cursive;
+            font-weight: 400;
+            font-style: normal;*/
+
+    color: red;
+}
+
+.button {
+
+    height: 50px;
+    width: 100px;
+    background-color: black;
+    border-radius: 8px;
+    text-align: center;
+    align-content: center;
+    color: white;
+    letter-spacing: 0.8;
+}
