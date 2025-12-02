@@ -45,7 +45,6 @@ body{
 }
 
 .box{
-
     height:450px;
     width:450px;
     background-color:rgb(176, 168, 183);
@@ -54,7 +53,7 @@ body{
 }
 
 .inner-box{
-
+    
     height:390px;
     width:390px;
     background-color:rgb(180, 115, 115);
@@ -79,7 +78,7 @@ body{
 }
 
 .inner-box2{
-
+    border:6px solid brown;
     height:350px;
     width:250px;
     background-color:lightpink;
@@ -94,13 +93,38 @@ body{
 }
 
 .img2{
-
+    border:5px green solid;
     height:120px;
     width:120px;
-    border-radius:100px;
-
-    
+    border-radius:100px;   
 }
+
+.ri-code-s-slash-line{
+    color:green;
+}
+
+.box3{
+        height: 450px;
+        width: 450px;
+        font-size:large;
+        background-color: rgb(176, 168, 183);
+        padding-left: 25px;
+        padding-top: 25px;
+}
+
+.inner-box3{
+        height: 390px;
+        width: 390px;
+        background-color: rgb(234, 230, 230);
+        border-radius: 10px;
+        padding-left: 20px;
+        padding-top: 15px;
+}
+.span{
+    color:rgb(86, 174, 209);
+}
+
+
 
 
 
