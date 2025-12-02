@@ -69,23 +69,36 @@ lecture4
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.7.0/fonts/remixicon.css"
+    rel="stylesheet"
+/>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="box">
         <div class="inner-box">  
-            <img class="img" src="https://images.pexels.com/photos/6348018/pexels-photo-6348018.jpeg?cs=srgb&dl=pexels-quang-nguyen-vinh-222549-6348018.jpg&fm=jpg" alt="">
+            <img class="img1" src="https://images.pexels.com/photos/6348018/pexels-photo-6348018.jpeg?cs=srgb&dl=pexels-quang-nguyen-vinh-222549-6348018.jpg&fm=jpg" alt="">
         </div>    
     </div>
 
     <div class="box2">
        <p class="para"> Meet Our Team </p>
            <div class="inner-box2">
-            <div class="inner-box3">
-                <img src="https://www.adobe.com/acrobat/hub/media_173d13651460eb7e12c0ef4cf8410e0960a20f0ee.jpg?width=750&format=jpg&optimize=medium"  height="100" width="100" alt="">
-            </div>
-            
+                
+                <img class="img2" src="https://www.adobe.com/acrobat/hub/media_173d13651460eb7e12c0ef4cf8410e0960a20f0ee.jpg?width=750&format=jpg&optimize=medium"  alt="">
+                     </br>
+
+                <span> Archana Patil <br/> <i class="ri-code-s-slash-line"></i>Full Stack</br> Developer </span>
            </div>     
+    </div>
+
+
+    <div class="box3">
+            <div class="inner-box3">
+                <span class="span"> <b>Archu P </b> </span></br> <span> Developer</span>
+            </div>
+
     </div>
 </body>
 </html>
