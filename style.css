@@ -159,6 +159,20 @@ body{
 }
 
 
+lecture5
+.para{
+
+    background-color:antiquewhite;
+
+}
+.span{
+    height:500px;
+    width:400px;
+    display:none;
+    background-color:beige;
+}
+
+
 
 
 
