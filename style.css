@@ -172,7 +172,24 @@ lecture5
     background-color:beige;
 }
 
+lecture6
+*{
+    padding:0;
+    margin:0;
+}
 
+.img-1{
+    background-image:url("https: //images.pexels.com/photos/735988/pexels-photo-735988.jpeg");
+}
+
+.bg-box{
+    height:100vh;
+    width:100%;
+    background-size:cover;
+    background-attachment:fixed;
+
+
+}
 
 
 
