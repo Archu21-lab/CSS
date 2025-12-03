@@ -97,8 +97,22 @@ lecture4
     <div class="box3">
             <div class="inner-box3">
                 <span class="span"> <b>Archu P </b> </span></br> <span> Developer</span>
+
+                <img class="img3" src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?cs=srgb&dl=pexels-italo-melo-881954-2379004.jpg&fm=jpg" alt="">
+            
+            <div class="button">
+                <i class="ri-facebook-fill"></i>
+                <i class="ri-instagram-line"></i>
+                <i class="ri-linkedin-box-fill"></i>
+                <i class="ri-twitter-fill"></i>
+                <i class="ri-twitter-x-fill"></i>
+
             </div>
 
+            <span class="p1"> Subscribe Easy Tutorial</span> <br/>
+            <span class="p2">youtube Channel To Watch More</span> <br/>
+            <span class="p1">videos for more desing </span>
+            </div>
     </div>
 </body>
 </html>
