@@ -124,6 +124,39 @@ body{
     color:rgb(86, 174, 209);
 }
 
+.img3{
+    height:150px;
+    width:180px;
+    margin-left:150px;
+    margin-bottom:30px;
+    border-radius:5px;
+
+}
+
+.button{
+    height:40px;
+    width:300px;
+    background-color:rgb(50, 176, 225);
+    border-radius:8px;
+    padding-left:30px;
+    text-align:center;
+    align-content:center;
+    color:white;
+    margin-left:45px;
+
+}
+
+.p1{
+    font-size:23px;
+    color:rgb(199, 125, 125);
+    padding-left:40px;
+}
+
+.p2 {
+    font-size: 23px;
+    color: rgb(199, 125, 125);
+    padding-left: 40px;
+}
 
 
 
