@@ -1,0 +1,68 @@
+*{
+    margin-left:5px;
+    padding:0px;
+}
+
+.b-box1{
+    height:350px;
+    width:230px;
+    background-color:rgb(221, 214, 214);
+    border: 3px solid black;
+}
+
+.sale{
+    height:18px;
+    width:43px;
+    background-color:rgb(228, 42, 42);
+    border-radius:5px;
+    font-size:14px;
+    font-weight:bold;
+    text-align:center;
+    align-content:center;
+    color:white;
+    margin-top:5px;
+       
+}
+
+.dis{
+    height:18px;
+    width:43px;
+    background-color:rgb(60, 236, 60);
+    border-radius:5px;
+    font-size:14px;
+    font-weight:bold;
+    text-align:center;
+    align-content:center;
+    color:white;
+    margin-top:5px;
+       
+
+}
+
+.button{
+     background-color:greenyellow;
+     color:black;
+     text-align:left;
+    
+}
+
+.img1{
+    height:180px;
+    width:200px;
+}
+
+
+
+.b-box2{
+    height:350px;
+    width:230px;
+    background-color:rgb(221, 214, 214);
+    border: 3px solid black;
+}
+
+.img2{
+    height:180px;
+    width:200px;
+}
+
+
