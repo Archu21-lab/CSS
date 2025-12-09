@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+
+}
+.head{
+
+    height: 600px;
+    width: 100%;
+    background-color: rgb(169, 200, 232);
+    margin-bottom:20px;
+}
+
+.flex{
+    font-size: 40px;
+    font-weight: 200px;
+    text-align: center;
+    align-content: center;
+    height:300px;
+    width: 100%;
+    background-color: rgb(48, 47, 47);
+    color:white;
+
+}
+
+.flex p{
+    font-size: 15px;
+    font-weight: 80px;
+}
+.output{
+    display:flex;
+
+}
+.output1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.output2{
+    display: flex;
+    flex-wrap:wrap-reverse;
+}
+
+
+.box{
+    height: 100px;
+    width:100px;
+    border-radius: 8px;
+    background-color: blueviolet;
+    margin:8px;
+    font-size: 20px;
+    font-weight:100px;
+    text-align: center;
+    align-content:center;
+}
