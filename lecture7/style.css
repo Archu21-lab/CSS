@@ -57,14 +57,53 @@ body{
 
 }
 .output5{
+    height: 250px;
     display: flex;
-    flex-direction: column-reverse;
+     flex-direction: column;
+    flex-wrap:wrap
+
+    
 }
 .output6{
     display: flex;
     flex-flow:row ;
 }
 
+.output7{
+    display: flex;
+    flex-flow:row-reverse ;
+}
+
+.output8{
+    display: flex;
+    flex-flow: nowrap;
+}
+.output9{
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap
+
+    
+}
+
+.output10{
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap-reverse;
+
+
+}
+
+.output11{
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap:nowrap;
+
+
+}
 
 .box{
     height: 100px;
