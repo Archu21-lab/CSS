@@ -68,8 +68,58 @@ body{
 
 }
 
-.align-2 {
-    display: flex;
-    align-items: flex-end;
-
+.align-2{
+    display: flex;                  /* Enable flexbox */
+    flex-direction: row;            /* Main axis: horizontal */
+    flex-wrap:wrap;                 /* Allow multiple rows for align-content to work */
+    justify-content: flex-end;
+    align-items: flex-end;            /* Vertical alignment along cross axis */
+    align-content:flex-end;    /* Vertical alignment of multiple lines */
 }
+
+
+
+.align-3{
+     display: flex;                  /* Enable flexbox */
+    flex-direction: row;            /* Main axis: horizontal */
+    flex-wrap:wrap;                 /* Allow multiple rows for align-content to work */
+    justify-content: center;
+    align-items: center;            /* Vertical alignment along cross axis */
+    align-content:center;    /* Vertical alignment of multiple lines */
+}
+    
+.align-4{
+     display: flex;                  /* Enable flexbox */
+    flex-direction: row;            /* Main axis: horizontal */
+    flex-wrap:wrap;                 /* Allow multiple rows for align-content to work */
+               /* Vertical alignment along cross axis */
+    align-content:stretch;    /* Vertical alignment of multiple lines */
+}
+    
+.align-5{
+     display: flex;                  /* Enable flexbox */
+    flex-direction: row;            /* Main axis: horizontal */
+    flex-wrap:wrap;                 /* Allow multiple rows for align-content to work */
+    justify-content: space-between;
+    align-items: space-between;            /* Vertical alignment along cross axis */
+    align-content:space-between;    /* Vertical alignment of multiple lines */
+}
+    
+.align-6{
+     display: flex;                  /* Enable flexbox */
+    flex-direction: row;            /* Main axis: horizontal */
+    flex-wrap:wrap;                 /* Allow multiple rows for align-content to work */
+    justify-content: space-around;
+    align-items:space-around;            /* Vertical alignment along cross axis */
+    align-content:space-around;    /* Vertical alignment of multiple lines */
+}
+    
+.align-7{
+     display: flex;                  /* Enable flexbox */
+    flex-direction: row;            /* Main axis: horizontal */
+    flex-wrap:wrap;                 /* Allow multiple rows for align-content to work */
+    justify-content:space-evenly;
+    align-items: space-evenly;            /* Vertical alignment along cross axis */
+    align-content:space-evenly;    /* Vertical alignment of multiple lines */
+}
+    
