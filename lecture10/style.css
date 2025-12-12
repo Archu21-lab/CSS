@@ -1,0 +1,136 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+
+body{
+    height:100vh;
+    width:100%;
+}
+
+.section{
+    height:100vh;
+    width:100%;
+}
+
+.section-1{
+    height:100vh;
+    width:100%;
+    display:flex;
+    
+}
+
+.sticky-notes{
+    height:150px;
+    width:100%;
+    background-color:rgb(50, 59, 69);
+    color:white;
+    font-size:25px;
+    font-weight:200px;
+    text-align:center;
+    align-items:center;
+    align-content:center;
+    
+
+
+}
+
+.categories{
+
+    height:800px;
+    width:400px;
+    background-color:rgb(241, 234, 234);
+    color:black;
+    font-size:20px;
+    font-weight:bold;
+
+}
+
+.box-1{
+    position:relative;
+    height:800px;
+    width:100%;
+    background-color:rgb(197, 190, 190);
+    
+}
+
+.box-2{
+    position:absolute;
+    left:40px;
+    top:40px;
+    height:200px;
+    width:200px;
+    background-color:rgb(224, 191, 125);
+    text-align:center;
+    align-content:center;
+    color:black;
+    font-size:15px;
+    
+
+}
+
+.box-3 {
+    position: absolute;
+    left:400px;
+    top: 100px;
+    height: 200px;
+    width: 200px;
+    background-color: rgba(96, 203, 133, 0.797);
+    text-align: center;
+    align-content: center;
+    color: black;
+    font-size: 15px;
+
+}
+
+.box-4 {
+    position: absolute;
+    left: 750px;
+    top: 200px;
+    height: 200px;
+    width: 200px;
+    background-color: rgba(236, 221, 134, 0.797);
+    text-align: center;
+    align-content: center;
+    color: black;
+    font-size: 15px;
+
+}
+
+.box-5 {
+    position: absolute;
+    left: 1100px;
+    top: 300px;
+    height: 200px;
+    width: 200px;
+    background-color: rgba(115, 209, 215, 0.797);
+    text-align: center;
+    align-content: center;
+    color: black;
+    font-size: 15px;
+
+}
+
+.box-6{
+
+    position:absolute;
+    right:0px;
+    bottom:0px;
+    height:30px;
+    width:200px;
+    background-color:rgb(53, 53, 102);
+
+}
+
+.button{
+    
+    border-radius:8px;
+    align-content:center;
+    align-items:center;
+    background-color:rgb(180, 177, 177);
+    color:black;
+    font-size:15px;
+
+}
+
+
