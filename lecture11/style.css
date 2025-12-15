@@ -1,0 +1,113 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+}
+
+.section{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(245, 231, 213);
+    margin: 8px;
+    
+}
+
+.container{
+    height: 100px;
+    width: 100%;
+    background-color: aqua;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    align-content: center;
+}
+
+.container-2{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(172, 235, 110);
+    display: flex;
+}
+
+.box{
+    height:150px;
+    width:150px;
+    margin:5px;
+    background-color: rgb(165, 214, 236);
+    color: black;
+    font-size:15px;
+    text-align: center;
+    align-content: center;
+}
+
+.item-1{
+    flex-basis: auto;
+
+}
+
+.item-2{
+    flex-basis: 20px;
+
+}
+
+.item-3{
+    flex-basis:34%;
+}
+
+.item-4{
+
+    flex-grow: auto;
+}
+
+.item-5{
+    flex-grow: 1;
+}
+
+.item-6{
+    flex-basis: 2;
+}
+
+.item-7{
+    flex-shrink: 0;
+
+}
+
+.item-8{
+    flex-shrink: 1;
+}
+
+.item-9{
+    flex-shrink: 2;
+}
+
+.item-10{
+   -ms-flex-order: 0;
+}
+
+.item-11{
+    -ms-flex-order: 2;
+}
+
+.item-12{
+    -ms-flex-order: 1;
+}
+
+.item-13{
+    align-self: flex-start;
+}
+
+.item-14{
+    align-self: flex-start;
+}
+
+.item-15{
+    align-self: center;
+}
+
+.item-16{
+    align-self: stretch;
+}
