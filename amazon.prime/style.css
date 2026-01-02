@@ -1,5 +1,7 @@
+
+
 *{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:arial sans-serif;
 }
 
 body{
@@ -194,4 +196,5 @@ footer .footer-value p{
     font-weight: 500;
     position: relative;
     left: 15px;
+
 }
